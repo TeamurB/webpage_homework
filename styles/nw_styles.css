@@ -1,0 +1,31 @@
+.one {
+    background-color: wheat;
+    font-size: xx-large;
+}
+.two {
+    background-color: wheat;
+    text-align: center;
+    font-size: xx-large;
+}
+.tri {
+    background-color: wheat;
+    font-size: xx-large;
+}
+.one, .two, .tri {
+    height: 100px;
+    float: left;
+    width: 33%;
+}
+.image {
+    background-image: url("../images/3-2.jpg");
+    height: 381px;
+    width: 678px;
+    float: left;
+}
+.four {
+    text-align: center;
+    font-size: xx-large;
+}
+.five {
+    font-size: xxx-large;
+}
