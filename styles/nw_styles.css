@@ -31,7 +31,14 @@
 }
 .glGrupa{
     text-align: left;
+    background-color: #d25865;
 }
 .podGrupa{
     text-align: right;
+    background-color: palegreen;
 }
+.tablitsa {
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
