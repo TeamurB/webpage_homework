@@ -1,33 +1,25 @@
 .one {
-    background-color: wheat;
+    background-color: #4056A1;
     font-size: xx-large;
-}
-.two {
-    background-color: wheat;
-    text-align: center;
-    font-size: xx-large;
-}
-.tri {
-    background-color: wheat;
-    font-size: xx-large;
-}
-.one, .two, .tri {
-    height: 100px;
+    height: 40px;
     float: left;
-    width: 33%;
-}
-.image {
-    background-image: url("../images/3-2.jpg");
-    height: 381px;
-    width: 678px;
-    float: left;
-}
-.four {
+    width: 100%;
     text-align: center;
-    font-size: xx-large;
+}
+.backgroundcol {
+    background-color: #222831;
+    color: #EEEEEE;
 }
 .five {
-    font-size: xxx-large;
+    font-size: x-large;
+    font-family: "Courier New";
+    text-align: center;
+    background-color: #6B778D;
+    color: #f0a04b;
+    border-style: dashed;
+}
+.image {
+    width: 33%;
 }
 .glGrupa{
     text-align: left;
@@ -41,4 +33,3 @@
     background-color: lightgoldenrodyellow;
     text-align: center;
 }
-
