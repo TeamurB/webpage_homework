@@ -21,6 +21,12 @@
 .image {
     width: 33%;
 }
+.treasonAnimal {
+    text-align: center;
+}
+table,tr ,td {
+    border: 1px solid black;
+}
 .glGrupa{
     text-align: left;
     background-color: #d25865;
