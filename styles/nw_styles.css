@@ -39,3 +39,15 @@ table,tr ,td {
     background-color: lightgoldenrodyellow;
     text-align: center;
 }
+.photo img {
+    width: 400px;
+    height: 400px;
+}
+.photo:hover img{
+    -webkit-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+}
+.tablhead {
+    font-size: xxx-large;
+    text-align: center;
+}
